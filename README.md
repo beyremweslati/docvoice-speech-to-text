@@ -1,7 +1,8 @@
-- DocVoice: Ai Speech-To-Text
-  Developed a medical voice recognition application that assists doctors in writing their reports using voice input. I generated a custom audio dataset from samples of medical texts using ElevenLabs, then fine-tuned the Whisper model to improve recognition of medical terminology. The project includes a Streamlit interface that allows doctors to dictate notes about their patients and instantly receive accurate transcriptions adapted to medical language.
+# DocVoice: Ai Speech-To-Text
 
-* Workflow Overview
+Developed a medical voice recognition application that assists doctors in writing their reports using voice input. I generated a custom audio dataset from samples of medical texts using ElevenLabs, then fine-tuned the Whisper model to improve recognition of medical terminology. The project includes a Streamlit interface that allows doctors to dictate notes about their patients and instantly receive accurate transcriptions adapted to medical language.
+
+# Workflow Overview
 
 This repository documents the end-to-end process: from generating a specialized medical vocabulary dataset using ElevenLabs and preparing the data, to fine-tuning the Whisper model (using LoRA/PEFT), and finally deploying the model via a live Streamlit interface.
 
