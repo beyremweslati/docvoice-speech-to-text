@@ -1,0 +1,4 @@
+.env
+documents/
+runs/
+checkpoint*/

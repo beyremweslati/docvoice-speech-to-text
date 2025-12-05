@@ -1,0 +1,222 @@
+[
+  {
+    "audio": "../dataset/processed/audio_final/200.wav",
+    "text": "Phacolysis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/018.wav",
+    "text": "Audiology"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/205.wav",
+    "text": "Phrenopathy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/212.wav",
+    "text": "Sleep apnea"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/046.wav",
+    "text": "Cryosurgery"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/244.wav",
+    "text": "Spirometer"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/162.wav",
+    "text": "Neurosis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/148.wav",
+    "text": "Sphygmomanometer"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/190.wav",
+    "text": "Patellectomy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/176.wav",
+    "text": "Orchidoepididymectomy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/127.wav",
+    "text": "Megakaryocyte"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/120.wav",
+    "text": "Hypothyroidism"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/013.wav",
+    "text": "Plasmapheresis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/143.wav",
+    "text": "Mammography"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/191.wav",
+    "text": "Lymphadenopathy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/011.wav",
+    "text": "Antipsychotic"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/003.wav",
+    "text": "Cardiac"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/092.wav",
+    "text": "Hemorrhoid"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/140.wav",
+    "text": "Osteolytic"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/037.wav",
+    "text": "Cheiloplasty"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/182.wav",
+    "text": "Aqueous"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/256.wav",
+    "text": "Testicular"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/054.wav",
+    "text": "Epidermal"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/049.wav",
+    "text": "Cytology"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/198.wav",
+    "text": "Osteopetrosis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/238.wav",
+    "text": "Endoscopy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/125.wav",
+    "text": "Juxtaposition"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/053.wav",
+    "text": "Denture"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/023.wav",
+    "text": "Myeloblast"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/266.wav",
+    "text": "Hypertrophy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/039.wav",
+    "text": "Chromogen"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/065.wav",
+    "text": "Mastectomy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/172.wav",
+    "text": "Opthalmoscope"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/029.wav",
+    "text": "Calcification"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/173.wav",
+    "text": "Diplopia"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/235.wav",
+    "text": "Cranioschisis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/228.wav",
+    "text": "Cholecystorrhaphy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/062.wav",
+    "text": "Esophageal"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/086.wav",
+    "text": "Hypoglycemia"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/177.wav",
+    "text": "Endometriosis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/059.wav",
+    "text": "Dorsolateral"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/129.wav",
+    "text": "Keratosis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/042.wav",
+    "text": "Corometer"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/166.wav",
+    "text": "Ocular"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/170.wav",
+    "text": "Melanoma"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/085.wav",
+    "text": "Macroglossia"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/164.wav",
+    "text": "Nulligravida"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/236.wav",
+    "text": "Arteriosclerosis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/009.wav",
+    "text": "Lymphangitis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/259.wav",
+    "text": "Hemothorax"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/000.wav",
+    "text": "Atypical"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/197.wav",
+    "text": "Peripheral vision"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/069.wav",
+    "text": "Emmetropia"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/201.wav",
+    "text": "Aphasia"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/035.wav",
+    "text": "Thoracentesis"
+  }
+]

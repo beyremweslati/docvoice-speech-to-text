@@ -1,0 +1,90 @@
+[
+  {
+    "audio": "../dataset/processed/audio_final/083.wav",
+    "text": "Carcinogenic"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/271.wav",
+    "text": "Vasodilation"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/243.wav",
+    "text": "Vasospasm"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/229.wav",
+    "text": "Diarrhea"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/136.wav",
+    "text": "Lipectomy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/019.wav",
+    "text": "Auricular Cartilage"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/043.wav",
+    "text": "Coronary Artery"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/016.wav",
+    "text": "Myasthenia gravis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/131.wav",
+    "text": "Labiodental"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/249.wav",
+    "text": "Subcutaneous"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/135.wav",
+    "text": "Linguistics"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/063.wav",
+    "text": "Echography"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/101.wav",
+    "text": "Hypertension"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/030.wav",
+    "text": "Cancerous"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/180.wav",
+    "text": "Otoplasty"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/169.wav",
+    "text": "Oliguria"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/139.wav",
+    "text": "Thrombolysis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/181.wav",
+    "text": "Laparotomy"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/226.wav",
+    "text": "Rhytidoplasty"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/253.wav",
+    "text": "Metatarsal"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/230.wav",
+    "text": "Amniorrhexis"
+  },
+  {
+    "audio": "../dataset/processed/audio_final/094.wav",
+    "text": "Hemicolectomy"
+  }
+]
