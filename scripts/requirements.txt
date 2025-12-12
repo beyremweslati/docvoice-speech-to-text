@@ -2,8 +2,6 @@ elevenlabs==2.18.0
 openai-whisper==20250625
 torch==2.8.0+cu128
 torchaudio==2.9.1
-torchcodec==0.7.0
-torchvision==0.23.0
 transformers==4.57.1
 scikit-learn==1.6.1
 jiwer==4.0.0
