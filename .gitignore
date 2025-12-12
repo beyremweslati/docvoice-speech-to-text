@@ -2,3 +2,4 @@
 documents/
 runs/
 checkpoint*/
+.ipynb_checkpoints
